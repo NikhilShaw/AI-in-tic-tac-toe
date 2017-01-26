@@ -1,5 +1,5 @@
 # AI-in-tic-tac-toe
-Training a computer to learn tic tac toe with random moves and tree.
+Training a computer to learn tic tac toe with random moves and tree implemented from scratch.
 
 1.OPEN Project Explaination.pdf to understand the working of the prgram.    
 2.OPEN AI in tic tac toe.cpp to run the program.    
