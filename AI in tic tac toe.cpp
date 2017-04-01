@@ -33,7 +33,7 @@ node* create(int number)		//creating a new node dynamically
 	return newnode;
 }
 
-void makethetree(node* temp, int level)		//creating a 3X3 tree
+void makethetree(node* temp, int level)		//creating a 9X9 tree
 {
 	if(level==9)							//level0- root
 			return;
